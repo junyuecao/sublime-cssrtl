@@ -8,7 +8,7 @@ npm install css-flip-auto -g
 ```
 
 ### 安装sublime 插件
-下载(http://www.baidu.com)
+下载(https://github.com/junyuecao/sublime-cssrtl/archive/master.zip)
 解压缩到 sublime 的package目录中
  
 
