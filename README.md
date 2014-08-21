@@ -81,3 +81,37 @@ p {
   content: ">";
 }
 ```
+
+## 支持的属性
+  - background-position 
+  - background-position-x\n border-bottom-left-radius
+  - border-bottom-right-radius
+  - border-color
+  - border-left
+  - border-left-color
+  - border-left-style
+  - border-left-width
+  - border-radius
+  - border-right
+  - border-right-color
+  - border-right-style
+  - border-right-width
+  - border-style
+  - border-top-left-radius
+  - border-top-right-radius
+  - border-width
+  - box-shadow
+  - clear
+  - direction
+  - float
+  - left
+  - margin
+  - margin-left
+  - margin-right
+  - padding
+  - padding-left
+  - padding-right
+  - right
+  - text-align 
+  - transition 
+  -transition-property
