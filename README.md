@@ -115,3 +115,6 @@ p {
   - text-align 
   - transition 
   -transition-property
+
+
+鸣谢： (https://github.com/twitter/css-flip)
