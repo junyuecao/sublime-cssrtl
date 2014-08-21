@@ -19,7 +19,7 @@ npm install css-flip-auto -g
 
 ### @noflip
 
-Prevent a single declaration from being flipped.
+防止单条规则的翻转
 
 单条不翻转:
 
@@ -41,7 +41,7 @@ p {
 
 
 
-不翻转整个规则:
+不翻转整个选择器:
 
 ```css
 /*@noflip*/
