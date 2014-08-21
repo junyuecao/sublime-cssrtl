@@ -1,10 +1,21 @@
 sublime-cssrtl
 ==============
+## 安装
 
-## Processing directives
+### 安装node依赖插件
+```
+npm install css-flip-auto -g
+```
 
-css-flip provides a way to ignore declarations or rules that should not be
-flipped, and precisely replace property values.
+### 安装sublime 插件
+下载(http://www.baidu.com)
+解压缩到 sublime 的package目录中
+ 
+
+
+## 处理方法
+
+主要有两种方式来做非常规的翻转 @noflip 和@replace
 
 ### @noflip
 
