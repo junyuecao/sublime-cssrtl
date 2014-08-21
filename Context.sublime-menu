@@ -1,0 +1,7 @@
+[
+    { 
+    	"id": "cssrtl",
+    	"command": "cssrtl",
+    	"caption": "生成rtl文件"
+    }
+]
