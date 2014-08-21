@@ -2,6 +2,9 @@ sublime-cssrtl
 ==============
 从ltr/mycss.css 生成 rtl/mycss-rtl.css
 
+图示：
+
+![picture](https://github.com/junyuecao/private-static/blob/master/example.gif)
 
 ## 安装
 
