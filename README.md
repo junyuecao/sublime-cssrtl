@@ -1,5 +1,8 @@
 sublime-cssrtl
 ==============
+从ltr/mycss.css 生成 rtl/mycss-rtl.css
+
+
 ## 安装
 
 ### 安装node依赖插件
