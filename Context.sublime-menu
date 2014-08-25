@@ -1,7 +1,31 @@
 [
     { 
-    	"id": "cssrtl",
-    	"command": "cssrtl",
-    	"caption": "生成rtl文件"
+    	"id": "cssrtl",    	
+    	"caption": "css翻转",
+    	"children" : [
+    		{ 
+		    	"id": "ltr",
+		    	"command": "cssrtl",
+		    	"caption": "从ltr到rtl"	
+    		},
+    		{
+    			"id": "rtl",
+		    	"command": "cssrtl",
+		    	"caption": "从rtl到ltr",
+		    	"args":
+                {
+                    "reverse": "-r"
+                }
+    		},
+    		{
+    			"id": "flip",
+		    	"command": "cssrtl",
+		    	"caption": "翻转当前css文件",
+		    	"args":
+                {
+                    "flip": true
+                }
+    		}
+    	]
     }
 ]
