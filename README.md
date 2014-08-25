@@ -1,6 +1,6 @@
 sublime-cssrtl
 ==============
-从ltr/mycss.css 生成 rtl/mycss-rtl.css
+从ltr生成rtl ，从rtl生成ltr
 
 图示：
 
