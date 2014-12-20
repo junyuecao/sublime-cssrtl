@@ -1,17 +1,17 @@
 [
     { 
     	"id": "cssrtl",    	
-    	"caption": "css翻转",
+    	"caption": "css flip",
     	"children" : [
     		{ 
 		    	"id": "ltr",
 		    	"command": "cssrtl",
-		    	"caption": "从ltr到rtl"	
+		    	"caption": "From ltr to rtl"	
     		},
     		{
     			"id": "rtl",
 		    	"command": "cssrtl",
-		    	"caption": "从rtl到ltr",
+		    	"caption": "From rtl to ltr",
 		    	"args":
                 {
                     "reverse": "-r"
