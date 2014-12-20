@@ -4,7 +4,7 @@ Generate CSS file from ltr to rtl
 
 Generate CSS file from rtl to ltr
 
-图示：
+Usage Example：
 
 ![picture](https://github.com/junyuecao/private-static/blob/master/example.gif)
 
